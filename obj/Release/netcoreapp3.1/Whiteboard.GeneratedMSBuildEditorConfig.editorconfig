@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Microsoft.Azure.SignalR.Samples.Whiteboard
+build_property.ProjectDir = D:\downloads\Whiteboard-master\Whiteboard-master\SignalR\
